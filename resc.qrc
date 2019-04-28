@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/eye.jpg</file>
+        <file>icon/zhange.jpg</file>
+        <file>icon/zhangliu.jpg</file>
+        <file>icon/zhangsan.jpg</file>
+        <file>icon/zhangsi.jpg</file>
+        <file>icon/zhangwu.jpg</file>
+        <file>icon/zhangyi.jpg</file>
+        <file>icon/zhangba.jpg</file>
+        <file>icon/zhangjiu.jpg</file>
+        <file>icon/zhangqi.jpg</file>
+        <file>icon/zhangshi.jpg</file>
+        <file>icon/zhangshier.jpg</file>
+        <file>icon/zhangshisan.jpg</file>
+        <file>icon/zhangshiyi.jpg</file>
+    </qresource>
+</RCC>
